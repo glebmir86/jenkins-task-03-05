@@ -18,3 +18,11 @@ They also want to display the status of that most recent test directly in the re
 - Review the contents of the report for more information.
 
 _*This challenge should take about 15 to 20 minutes to complete.*_# jenkins-task-03-05
+
+Protected
+
+[![Build Status](http://ec2-13-48-117-231.eu-north-1.compute.amazonaws.com:8080/job/jenkins-task-03-05/badge/icon)](http://ec2-13-48-117-231.eu-north-1.compute.amazonaws.com:8080/job/jenkins-task-03-05/)
+
+Unprotected
+
+[![Build Status](http://13.48.117.231:8080/buildStatus/icon?job=jenkins-task-03-05)](http://ec2-13-48-117-231.eu-north-1.compute.amazonaws.com:8080/job/jenkins-task-03-05/)
